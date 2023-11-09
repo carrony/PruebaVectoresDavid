@@ -46,6 +46,7 @@ int main(void) {
 		printf("Elemento %d encontrado en la casilla %d", busca, posicion);
 	}
 
+	printf("Hasta Luego");
 
 
 	return EXIT_SUCCESS;
